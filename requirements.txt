@@ -1,0 +1,5 @@
+streamlit
+openai
+opencv-python
+moviepy
+python-dotenv
